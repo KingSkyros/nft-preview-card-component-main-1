@@ -1,0 +1,59 @@
+*{
+    padding: 0; 
+    margin: 0; 
+}  
+
+body{
+    background:  hsl(217, 54%, 11%);
+} 
+
+#whole{
+    background: hsl(216, 50%, 16%); 
+    float: left; 
+    margin-top: 3%; 
+    margin-left: 25%;  
+    padding: 2%; 
+    border-bottom-right-radius: 2%; 
+    border-bottom-left-radius: 2%;  
+    border-top-left-radius: 2%;  
+    border-top-right-radius: 2%; 
+} 
+
+img{
+   border-bottom-left-radius: 2%; 
+   border-top-left-radius: 2%;  
+   border-bottom-right-radius: 2%; 
+   border-top-right-radius: 2%;
+}
+
+#identity{ 
+    float: left;  
+    padding-right:50px;   
+} 
+
+h1{
+    color: hsl(0, 0%, 100%);
+} 
+
+.di{
+    color:hsl(178, 100%, 50%);
+}  
+
+.ab{
+    position: absolute; 
+}
+
+p{
+    font-size: 18px;
+    color:rgb(143, 140, 140);
+} 
+
+hr{
+    width: 180%; 
+    background-color: hsl(215, 32%, 27%); 
+    mix-blend-mode: multiply;
+}  
+ 
+a{
+    text-decoration: hsl(0, 0%, 100%);
+}
